@@ -1,0 +1,4 @@
+streamlit
+requests
+pdfminer.six
+PyPDF2
